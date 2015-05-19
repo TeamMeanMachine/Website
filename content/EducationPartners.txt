@@ -1,0 +1,6 @@
+OSPI,http://www.k12.wa.us/
+Camas High School,http://chs.camas.wednet.edu/
+Camas School Board,http://www.camas.wednet.edu/school-board/
+Washougal High School,http://www.washougal.k12.wa.us/whs/
+Hockinson High School,http://www.edline.net/pages/Hockinson_High_School
+Camas Education Foundation,http://www.cefcamas.org/

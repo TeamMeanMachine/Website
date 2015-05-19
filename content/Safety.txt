@@ -1,0 +1,30 @@
+<html>
+Team 2471 has not one Safety Captain, but a whole safety division! The team as a whole takes pride knowing that they always put Safety first. As the safety division tries to figure out different ways of safety outreach.
+<br>
+<img src="/images/safety/1st safety.JPG" width="400px" height="270px">
+<br>
+At the competitions you can pick out Team 2471's Safety Captain and Safety Lieutenant  by their "Safety Saks" equipped with First Aid kits, safety glasses, hair ties, ear plugs and more. You may also find the safety division teaching hands only CPR and how to work an AED.
+<br><br>
+<img src="images/safety/2nd safety.JPG" width="400px" height="250px">
+<img src="images/safety/3rd safety.JPG" width="400px" height="250px">
+<br><br>
+Team 2471 has taught over 300 people CPR and will continue teaching the importance of it. Spreading the awareness of CPR the team hopes that in an unfortunate event one go these 300 people could help save a life, even if they aren't certified in CPR.
+<br>
+<a href="http://www.youtube.com/watch?v=Da9CVjY4_zc" alt="Team 2471 CPR video"></a>
+<br>
+SAFETY TIPS FROM 2471:
+	<ul>
+		<li>Safety Glasses are always a must at competition and in the shop but a common overlooked PPE item is ear plugs! Take hearing protection into consideration and always keep some ear plugs on hand.
+			<br>
+		<li>Keep your work space clear, not only is it a good way to stay organized, it also prevents minor as well as major injuries from happening. This tip also applies to the floor, prevent slips, trips and falls by sweeping and vacuuming after using machinery in the shop as well as the pit.
+			<br>
+		<li>Closed toed shoes, hair tied back, long pants and non baggy clothing. If this isn't already a rule on your team it would be a good idea to make it one. Accidents are bound to happen but by taking proper precaution you could save yourself from a major injury.
+			<br>
+		<li>Record the accidents that happen! Keeping an accurate record of accidents done in the shop and at competition will help your team correct mistakes and keep everyone safer.
+			<br>
+		<li>Get excited about safety! Safety is the most important thing in FIRST and in any manufacturing/engineering job. If companies go into great extents to put Safety first, then we should too. Also if you're not excited about safety in the shop, then you won't be excited about it when the judges come around at competition.
+			<br>
+		<li>Get your whole team involved! The Safety Captain's job isn't to constantly make sure everyone is wearing their safety glasses. Their job is to set the examples for your team to emulate.
+	</ul>
+<br>
+<iframe width="760" height="515" align="middle" float="right" src="//www.youtube.com/embed/Da9CVjY4_zc" frameborder="0" allowfullscreen></iframe>

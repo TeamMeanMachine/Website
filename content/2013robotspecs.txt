@@ -1,0 +1,51 @@
+<table style="border: 0; border-collapse: collapse; margin: 0 auto;">
+<th>
+<h1 style="color: #111111; font-size: 2.0em;"><b>Introducing: Oddjob</b></h1></th>
+<tr>
+<td>
+<img alt="Picture coming soon." src="images/2013Robot.JPG" style="margin-top: 30px;" width="300px"/>
+<img src="images/2013Robot2.JPG" style="margin-top: 30px;" width="300px"/>
+</td>
+<td style="padding-left: 10px;">
+<p>
+Video: <a href="http://vimeo.com/60426670">here.</a>
+<br />
+<br />
+Frame:
+<ul>
+<li>60" height, 28" x 28"</li>
+<li>Low center of gravity</li>
+</ul>
+
+Drivetrain:
+<ul>
+<li>20fps</li>
+<li>6in Mecanum Drive</li>
+</ul>
+
+Intake:
+<ul>
+<li>Double Sided Intake</li>
+<li>Picks up upside-down and right-side up with passive orientor</li>
+</ul>
+
+Shooter:
+<ul>
+<li>90 degree shooter</li>
+<li>~80 degree variable tilt</li>
+<li>8" AndyMark pneumatic tire</li>
+<li>Full court high-speed shot (100% power shot ~100ft/two fields)</li>
+<li>Scores from anywhere on field (and possibly from queuing)</li>
+<li>Fire rate: 0.5-1 second per shot (depending on distance)</li>
+</ul>
+
+Endgame:
+<ul>
+<li>Shoots while climbing</li>
+<li>Ten point lift</li>
+</ul>
+</p>
+<img src="images/2013Robot3.JPG" style="margin-top: 30px;" width="300px"/>
+</td>
+</tr>
+</table>

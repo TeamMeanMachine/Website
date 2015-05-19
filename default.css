@@ -1,0 +1,705 @@
+
+body {
+	margin-top: 8px;
+	padding: 0;
+	background: #0c0a09;
+	text-align: justify;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #616161;
+}
+
+h1, h2, h3 {
+	margin-top: 0;
+	color: #8C0209;
+}
+
+h1 {
+	font-size: 2.0em;
+	font-weight: normal;
+}
+
+h2 {
+	font-size: 1.6em;
+}
+
+h3 {
+	font-size: 1em;
+}
+
+ul {
+}
+
+a {
+	text-decoration: none;
+	color: #8C0209;
+}
+
+a:hover {
+	border-bottom: none;
+}
+
+a img {
+	border: none;
+}
+
+img.left {
+	float: left;
+	margin: 0 20px 0 0;
+}
+
+img.right {
+	float: right;
+	margin: 0 0 0 20px;
+}
+
+#twitter {
+	padding-right: 10px;
+}
+
+#facebook {
+	position: fixed;
+	bottom: 5px;
+	left: 5px;
+}
+
+#header {
+    margin:0 auto;
+    width:90%;
+    min-width:860px;
+}
+
+/* Header */
+
+#headerleft {
+	background: url(images/headerLeft.gif) no-repeat left top;
+	width: 11px;
+}
+
+#headermiddle {
+	background: url(images/headerMiddle.gif) repeat-x left top;
+}
+
+#headerright {
+	background: url(images/headerRight.gif) no-repeat right top;
+	width: 11px;
+}
+
+#logo {
+    width:100%;
+	height: 125px;
+	border: 0;
+	border-collapse: collapse;
+}
+
+#logo td, #logo th {
+	padding: 0;
+}
+
+#logo h1, #logo p {
+	float: left;
+	margin: 0;
+	color: #FFFFFF;
+}
+
+#logo img {
+	float: left;
+}
+
+#logo span {
+	color: #FF4D00;
+}
+
+#logo h1 {
+	padding: 25px 20% 0 10px;
+	letter-spacing: -1px;
+	font-weight: normal;
+	font-size: 2.8em;
+}
+
+#logo p {
+	text-transform: uppercase;
+	padding: 5px 0 0 60px;
+	font-size: 12px;
+	color: #cccccc;
+}
+
+#logo a {
+	border: none;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+/* Old Menu */
+/*
+#menu {
+	width: 90%;
+    min-width:860px;
+	height: 56px;
+	margin: 0 auto;
+	background: #D5DEEF url(images/gbimg02.jpg) repeat-x left top;
+	border: 0px;
+	border-collapse: collapse;
+    clear:both;
+}
+
+#menu table {
+	margin: 0;
+	padding: 0px 0px 0px 0px;
+	list-style: none;
+	line-height: normal;
+    letter-spacing:normal;
+}
+
+#menu td, #menu th {
+	padding: 0px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    background:url(images/sep.png) no-repeat left center;  
+}
+
+#menu a {
+    display:block;
+	height: 56px;
+	margin: 0px;
+	padding: 0px 0px 0px 0px;
+	line-height: 56px;
+	letter-spacing: -0.2px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: 'Arvo', serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #B5B5B5;
+	border: none;
+}
+
+#menu .current_page_item a {
+	background: url(images/gbimg03.jpg) repeat-x left top;
+	color: #FFFFFF;
+}
+
+#menu a:hover {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+*/
+
+/*Menu*/
+
+#menu {
+    width:90%;
+    min-width:860px;
+    margin:0 auto;
+}
+
+#menu .drop_menu {
+	background: #D5DEEF url(images/gbimg02.jpg) repeat-x left top;
+	list-style-type:none;
+	height:56px;
+    display: table;
+    width: 100%;
+    margin:0 auto;
+    border-collapse: collapse;
+    border: none;
+}
+#menu .drop_menu li { 
+    text-align:center; 
+    display:table-cell;
+}
+#menu .drop_menu li a {    
+    display:block;
+	color:#B5B5B5;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Arvo, serif;
+	font-size: 14px;
+	font-weight: normal;
+    line-height:56px;
+}
+
+/* Submenu */
+#menu .drop_menu ul {
+	position:absolute;
+	display:none;
+	list-style-type:none;
+}
+#menu .drop_menu li:hover { 
+    position:relative; 
+    background:#890208;
+}
+
+#menu .drop_menu li:hover ul {
+    display:block;
+	background:#890208;
+	padding:0;
+}
+
+#menu .drop_menu li:hover li {
+    clear:both;
+    float:left;
+}
+
+#menu .drop_menu li:hover ul li a {
+	padding:5px;
+	display:block;
+	width:168px;
+	text-indent:5px;
+    text-align:left;
+	background-color:#890208;
+    line-height:normal;
+}
+#menu .drop_menu li:hover ul li a:hover { 
+    background:#E0E0E0; 
+    color:#616161; 
+}
+
+#menu .current_page_item  {
+	background: url(images/gbimg03.jpg) repeat-x left top;
+	color: #FFFFFF;
+}
+
+
+/* Wrapper */
+
+#wrapper {
+}
+
+/* Page */
+
+#page {
+	width: 90%;
+	min-width: 860px;
+	margin-right:auto;
+    margin-left:auto;
+	padding: 0;
+	background: #f0f0f0;
+}
+/* Latest Post */
+
+#latest-post {
+	padding: 20px;
+	border: 1px solid #E7E7E7;
+}
+
+/* Content */
+
+.captioned_image {
+    float:left;
+	padding: 5px 5px 5px 5px;
+	background-color: #e0e0e0;
+    margin-bottom:20px;
+    clear:both;
+}
+
+.captionedimage {
+    float:left;
+	padding: 5px 5px 5px 5px;
+	background-color: #e0e0e0;
+    margin-bottom:20px;
+}
+
+.captioned_image img {
+	width: 250px;
+}
+
+.captioned_image p {
+	text-decoration: underline;
+	font-weight: bold;
+	text-align: center;
+	line-height: 100%;
+	margin: 5px 0 5px 0;
+}
+
+.captioned_image_large {
+	padding: 5px 5px 5px 5px;
+	float: left;
+	background-color: #e0e0e0;
+    width:100%;
+}
+
+.captioned_image_large img {
+	width: 100%;
+}
+
+.captioned_image_large p {
+	text-decoration: underline;
+	font-weight: bold;
+	text-align: center;
+	line-height: 100%;
+	margin: 5px 0 10px 0;
+}
+
+#sponsorlist p {
+	text-decoration: underline;
+}
+
+#content {
+	float: left;
+	width: 65%;
+	padding: 30px 20px 0 40px;
+}
+
+.indented{
+/*	float: left; */
+	margin-left: 260px;
+	padding-left: 15px;
+}
+
+.indented li {
+	margin-left: 20px;
+}
+
+.post {
+	padding-bottom: 15px;
+	line-height: 200%;
+	clear: both;
+}
+
+.post h1 {
+	font-weight: normal;
+}
+
+
+.title {
+	font-size: 1.6em;
+	margin: 0;
+	padding: 10px 0 4px 20px;
+	font-weight: normal;
+}
+
+.title a {
+	color: #8C0209;
+}
+
+.title a:hover {
+	border-bottom: 1px dotted #000000;
+}
+
+.byline {
+	border-bottom: 1px #BBBBBB dashed;
+	margin: -10px 20px 20px 20px;
+}
+
+.tag {
+	padding: 0 15px;
+}
+
+.entry {
+	padding: 0 20px;
+}
+
+.content {
+	float:left;
+}
+
+.entry  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.left {
+}
+
+.entry td {
+	text-align:justify;
+	vertical-align:top;
+}
+
+.sponsor td {
+	text-align: center;
+	vertical-align:top;
+}
+
+.tablecenter td {
+	text-align:center;
+	vertical-align:middle;
+}
+
+#sponsortable {
+	width:100%;
+}
+
+#sponsortable.discription td {
+    vertical-align:top;   
+}
+
+#sponsortable th {
+	width:20%;
+	font: bold 16px "Trebuchet MS", Verdana, Arial, Helvetica,
+	sans-serif;
+	color: #FFFFFF;
+	border-right: 1px dashed black;
+	text-align: center;
+	padding: 6px 6px 6px 6px;
+	background: #890208;
+}
+
+
+#sponsortable td {
+	width:20%;
+	vertical-align:middle;
+	border-right: 1px dashed black;
+	background: #FFFFFF;
+	padding: 6px 6px 6px 6px;
+	color: #616161;
+	text-align:center;
+}
+
+#sponsortable .last {
+	border-right:none;
+}
+
+#sponsortable td.alt {
+	background: #E0E0E0;
+}
+
+#gallery {
+	text-align: center;
+}
+
+#gallery .img {
+	background-color:#E0E0E0;
+	display: inline-block;
+	margin:2px;
+	height:auto;
+	width:auto;
+}
+#gallery .img img {
+	display:inline;
+	margin:3px;
+	border:1px solid #ffffff;
+}
+#gallery .img a:hover img {
+	border:1px solid #890208;  
+}
+#gallery .desc {
+	line-height:100%;
+	text-align:center;
+	font-weight:normal;
+	margin:2px;
+}
+
+
+.entry table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.news_entry img {
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 30px;
+}
+
+.links {
+	padding: 4px 0;
+	text-align: right;
+	font-weight: bold;
+}
+
+.links a {
+	border: none;
+}
+
+.links a:hover {
+}
+
+/* Sidebar */
+
+.firstlogo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.sidebar {
+	float: right;
+	width: 25%;
+	padding: 20px 0 0 10px;
+	font-size: 12px;
+	background: #e0e0e0;
+	border-bottom-left-radius: 15px;
+}
+
+.sidebar ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.sidebar li {
+	padding: 0 0 20px 0;
+}
+
+.sidebar li ul {
+}
+
+.sidebar .sponsorlist {
+	margin: 0 0 0 20px;
+}
+
+.sidebar li li {
+	margin: 0 20px 0 15px;
+	padding: 8px 0;
+	border-bottom: 1px #BBBBBB dashed;
+}
+
+
+.sidebar li h2 {
+	height: 30px;
+	margin: 0 0 0 0;
+	padding: 10px 15px 0 15px;
+	background: #890208;
+	letter-spacing: -1px;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+
+.sidebar li h3 {
+	height: 20px;
+	margin: 10px 0 0 0;
+	padding: 5px 15px 0 15px;
+	background: #890208;
+	letter-spacing: -1px;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+
+.sidebar a {
+}
+
+/* Footer */
+#footer {
+    width:90%;
+    min-width:860px;
+	margin: 0 auto;
+}
+
+#footerleft {
+	background: url(images/footerLeft.gif) no-repeat left top;
+	width: 11px;
+}
+
+#footermiddle {
+	background: url(images/footerMiddle.gif) repeat-x left top;
+}
+
+#footerright {
+	background: url(images/footerRight.gif) no-repeat right top;
+	width: 11px;
+}
+
+#footer .body {
+	width: 100%;
+	height: 70px;
+	padding: 0 0 0 0;
+	color: #FFFFFF;
+	border: 0;
+	border-collapse: collapse;
+}
+
+#footer .body td, #footer .body th {
+	padding: 0;
+}
+
+#footer .body p {
+	margin: 0;
+	padding: 10px 20px 0 20px;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: smaller;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#footer .body a {
+	color: #FFFFFF;
+}
+
+#footer .body .link {
+	float: right;
+}
+
+#footer .body .copyright {
+	float: left;
+}
+
+/* About Us */
+
+#aboutlinkbar {
+	text-align: center;
+}
+
+#about_us img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#live_stream iframe {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Links */
+
+.linkcell {
+	width: 300px;
+	padding: 5px 20px 5px 20px;
+}
+
+.linkcell a {
+	font-size: 1.2em;
+}
+
+.Collage{
+
+    /*This is where you set the padding you want between the images*/
+    padding:10px;
+    text-align:center;
+
+}
+.Collage img{
+    margin:0;
+    padding:0;
+    display:inline-block;
+    vertical-align:bottom;
+    opacity:1;
+
+    /*This is where you set the border you want for the image*/
+    border:6px solid #E0E0E0;
+}
+
+
+/* In this example, this is the main item being resized */
+.Image_Wrapper{
+    /* to get the fade in effect, set opacity to 0 on the first element within the gallery area */
+/*    opacity:0;*/
+    -moz-box-shadow:0px 2px 4px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow:0px 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow:0 2px 4px rgba(0, 0, 0, 0.1);
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.Caption{
+    line-height:100%;
+    font-size:12px;
+    font-weight:normal;
+    font-family:arial, serif;
+}
+.Caption_Content{
+    /* padding:10px; */
+    color:#FFF;
+    padding:4px;
+}
+
+.effect-parent {
+    -webkit-perspective: 1300px;
+    -moz-perspective: 1300px;
+    perspective: 1300px;
+}
