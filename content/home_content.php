@@ -6,5 +6,4 @@
 <h1>Upcoming Events:</h1>
 <ul>
   <br>
-  <li><a href="https://codeday.org/portland">CodeDay Portland</a> - May 23, 2015</li>
 </ul>
