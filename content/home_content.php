@@ -6,4 +6,11 @@
 <h1>Upcoming Events:</h1>
 <ul>
   <br>
+  <li>Hockinson Fun Days - May 30, 2015</li>
+  <br>
+  <li>Elementary Presentation - June 2, 2015</li>
+  <br>
+  <li>Demonstration for School Boards - June 8, 2015</li>
+  <br>
+  <li>Camtown Youth Festival - June 13, 2015</li>
 </ul>
