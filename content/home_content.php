@@ -5,6 +5,7 @@
 <br>
 <h1>Upcoming Events:</h1>
 <ul>
+  <br>
   <li>Recycled Arts Festival - June 27th - 28th, 2015</li>
   <br>
   <li>JWR Boys & Girls Lego Engineering Camp - June 29th - July 2nd, 2015</li>
@@ -14,5 +15,4 @@
   <li>Camas Days - July 24th - 25th, 2015</li>
   <br>
   <li>JWR Boys & Girls Robotics Camp - August 17th - August 21st, 2015</li>
-  <br>
 </ul>
