@@ -85,12 +85,10 @@ include("mheader.php");
 	} elseif ($pagename == "Media Gallery") {
 		include("downloads/content/media_content.php");
 	} elseif ($pagename == "Sponsors") {
-		include("downloads/content/sponsor_content.php");			} 
-	elseif ($pagename == "Parents") {		
-		include("downloads/content/Parents_content.php");	
+		include("downloads/content/sponsor_content.php");
+	} elseif ($pagename == "Parents") {
+		include("downloads/content/Parents_content.php");
 	}
-	
-	
 ?>		
 		
 		</div>
