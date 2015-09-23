@@ -100,11 +100,10 @@
 				<td class="alt"><a target="_blank" href="http://www.hp.com/">Hewlett-Packard</a></td> <!--Wood 1,000-->
 				<td class="alt"><a target="_blank" href="http://www.columbialitho.com">Columbia Litho</a></td> <!--Plastic 500-->
 				<td class="alt last">Excel Designs</td> <!--Zip Tie 100-->
-				<a target="_blank" href="http://www.linear.com">Linear Technology</a>
 			</tr>
 			<tr>
 				<td><a target="_blank" href="http://usdigital.com/">US Digital</a></td> <!--Titanium 5,000-->
-				<td>!!!!!!!IPLY DESIGNS TO GO HERE _ LEFT OFF HERE!!!!!!</td> <!--Aluminum 2,500-->
+				<td>iPly Design</td> <!--Aluminum 2,500-->
 				<td><a>Linda Calica</a></td> <!--Wood 1,000-->
 				<td><a target="_blank" href="http://www.columbiaokura.com/">Columbia Okura</a></td> <!--Plastic 500-->
 				<td class="last"><a target="_blank" href="http://www.wacom.com/">Wacom</a></td> <!--Zip Tie 100-->
@@ -118,7 +117,7 @@
 			</tr> 			
 			<tr>
 				<td></td> <!--Titanium 5,000-->
-				<td></td> <!--Aluminum 2,500-->
+				<td><a target="_blank" href="http://www.linear.com">Linear Technology</a></td> <!--Aluminum 2,500-->
 				<td><a target="_blank" href="http://www.riverviewbank.com/">Riverview Bank</a></td> <!--Wood 1,000-->
 				<td><a target="_blank" href="http://retailimaging.com/">Retail Imaging Managment Group</a></td> <!--Plastic 500-->
 				<td class="last"></td> <!--Zip Tie 100-->
