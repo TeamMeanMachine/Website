@@ -43,7 +43,7 @@
 				<b><u>PNW Oregon City District Event:</u></b>
 				<li>Winner with (4488 & 3674)</li>
 				<li>Industrial Design Award</li>
-            </ul>
+            </ul>https://github.com/Ethroes/Website/graphs
         </div>
     </div>
 </div>
@@ -98,7 +98,7 @@
                 <li>Regional Winner! (with 2046 & 942)</li>
                 <li>Engineering Excellence Award</li>
                 <b><u>Autodesk Oregon Regional:</u></b>
-                <li>Semi-Finalist</li>
+                <li>Semi-Finalist (with 2130 & 2439)</li>
                 <li>Industrial Design Award</li>
             </ul>
         </div>
@@ -130,11 +130,11 @@
                 <b><u>World Championships:</u></b>
                 <li>Curie Division</li>
                 <b><u>Seattle Cascade Regional:</u></b>
-                <li>Regional Winner!</li>
+                <li>Regional Winner! (with 1510 & 2660)</li>
                 <li>Industrial Design Award</li>
                 <li>Coopertition Award</li>
                 <b><u>Portland Autodesk Regional:</u></b>
-                <li>Regional Winner!</li>
+                <li>Regional Winner! (with 360 & 3711)</li>
             </ul>
         </div>
     </div>
@@ -167,10 +167,10 @@
                 <li>Best Autonomous Mode Award</li>
                 <li>Most Robust Robot Award</li>
                 <b><u>Microsoft Seattle Regional:</u></b>
-                <li>Semi-Finalist</li>
+                <li>Semi-Finalist (with 2046 & 1258)</li>
                 <li>Rockwell Innovation in Control Award</li>
                 <b><u>Autodesk Oregon Regional:</u></b>
-                <li>Finalist</li>
+                <li>Finalist (with 847 & 2990)</li>
                 <li>Delphi Engineering Excellence Award</li>
             </ul>
         </div>
@@ -186,9 +186,9 @@
         <div class="indented">
             <ul>
                 <b><u>Microsoft Seattle Regional:</u></b>
-                <li>Semi-Finalist</li>
+                <li>Semi-Finalist (with 1510 & 2374)</li>
                 <b><u>Autodesk Oregon Regional:</u></b>
-                <li>Semi-Finalist</li>
+                <li>Semi-Finalist (with 488 & 2915)</li>
                 <li>Delphi Engineering Excellence Award</li>
                 <b><u>OMSI Autodesk Scrimmage:</u></b>
                 <li>Gold Medal Alliance</li>
