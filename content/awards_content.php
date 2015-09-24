@@ -43,7 +43,7 @@
 				<b><u>PNW Oregon City District Event:</u></b>
 				<li>Winner with (4488 & 3674)</li>
 				<li>Industrial Design Award</li>
-            </ul>https://github.com/Ethroes/Website/graphs
+            </ul>
         </div>
     </div>
 </div>
