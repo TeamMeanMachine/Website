@@ -6,8 +6,6 @@
 <h1>Upcoming Events:</h1>
 <ul>
   <br>
-  <li>New Student Open House - September 21st, 2015</li>
-  <br>
   <li>New Student Orientation - September 23rd, 2015</li>
   <br>
   <li>FRC Business Round Table - October 3rd, 2015</li>
