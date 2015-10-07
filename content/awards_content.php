@@ -26,7 +26,7 @@
     <h1 class="title"><a href="#">2014</a></h1>
     <div class="entry">
         <div class="captioned_image">
-            <img src="images/Dr_claw.jpg" alt="Dr.Claw" />
+            <img src="images/Dr_claw.jpg" alt="Dr. Claw" />
             <p><a href="http://www.thebluealliance.com/team/2471/2014">Dr.Claw</a></p>
         </div>
         <div class="indented">
@@ -74,7 +74,7 @@
     <div class="entry">
         <div class="captioned_image">
             <img src="images/Zambuni_field.JPG" alt="Zambuni" />
-            <p>Dr. Zambuni PHD</p>
+            <p>Dr. Zambuni PhD</p>
         </div>
         <div class="indented">
             <ul>
