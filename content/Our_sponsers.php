@@ -88,7 +88,7 @@
 				<th class="last">Duct Tape - $100+</th>
 			<tr>
 			<tr>
-				<td><a target="_blank" href="http://camas.wednet.edu/">Camas School District</a></td> <!--Titanium 5,000-->
+				<td><a target="_blank" href="http://www.camas.wednet.edu">Camas School District</a></td> <!--Titanium 5,000-->
 				<td><a target="_blank" href="http://boeing.com/">Boeing</a></td> <!--Aluminum 2,500-->
 				<td><a target="_blank" href="http://www.cwrotary.com/">Camas/Washougal Rotary</a></td> <!--Wood 1,000-->
 				<td><a target="_blank">Barsotti Family</a></td> <!--Plastic 500-->
@@ -96,9 +96,9 @@
 			</tr>
 			<tr>
 				<td class="alt"><a target="_blank" href="http://www.tnb.com/">Thomas and Betts - A member of the ABB group</a></td> <!--Titanium 5,000-->
-				<td class="alt"><a target="_blank" href="http://www.dwfritz.com/">DW Frtiz</a></td> <!--Aluminum 2,500-->
+				<td class="alt"><a target="_blank" href="http://dwfritz.com/">DW Frtiz</a></td> <!--Aluminum 2,500-->
 				<td class="alt"><a target="_blank" href="http://www.hp.com/country/us/en/uc/welcome.html">Hewlett-Packard</a></td> <!--Wood 1,000-->
-				<td class="alt"><a target="_blank" href="http://www.columbialitho.com">Columbia Litho</a></td> <!--Plastic 500-->
+				<td class="alt"><a target="_blank" href="http://www.columbialitho.com/">Columbia Litho</a></td> <!--Plastic 500-->
 				<td class="alt last">Excel Designs</td> <!--Zip Tie 100-->
 			</tr>
 			<tr>
