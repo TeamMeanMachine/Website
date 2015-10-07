@@ -3,7 +3,7 @@
     <div class="entry">
         <div class="captioned_image">
             <img src="images/Tote-O.jpg" alt="Tote-O" />
-            <p>Tote-O Stackins</p>
+            <p><a href="http://www.thebluealliance.com/team/2471/2015">Tote-O Stackins</a></p>
         </div>
         <div class="indented">
             <ul>
@@ -27,7 +27,7 @@
     <div class="entry">
         <div class="captioned_image">
             <img src="images/Dr_claw.jpg" alt="Dr.Claw" />
-            <p>Dr.Claw</p>
+            <p><a href="http://www.thebluealliance.com/team/2471/2014">Dr.Claw</a></p>
         </div>
         <div class="indented">
             <ul>
@@ -52,7 +52,7 @@
     <div class="entry">
         <div class="captioned_image">
             <img src="images/2013Robot.JPG" alt="OddJob" />
-            <p>OddJob</p>
+            <p><a href="http://www.thebluealliance.com/team/2471/2013">OddJob</a></p>
         </div>
         <div class="indented">
             <ul>
@@ -88,7 +88,7 @@
     <div class="entry">
         <div class="captioned_image">
             <img src="images/swoopes2012.bmp" alt="Swoopes" />
-            <p>Swoopes</p>
+            <p><a href="http://www.thebluealliance.com/team/2471/2012">Swoopes</a></p>
         </div>
         <div class="indented">
             <ul>
@@ -123,7 +123,7 @@
     <div class="entry">
         <div class="captioned_image">
             <img src="images/Wallace.JPG" alt="Wallace" />
-            <p>Wallace</p>
+            <p><a href="http://www.thebluealliance.com/team/2471/2011">Wallace</a></p>
         </div>
         <div class="indented">
             <ul>
@@ -158,7 +158,7 @@
     <div class="entry">
         <div class="captioned_image">
             <img src="images/Ophy.JPG" />
-            <p>Ophy</p>
+            <p><a href="http://www.thebluealliance.com/team/2471/2010">Ophy</a></p>
         </div>
         <div class="indented">
             <ul>
@@ -181,7 +181,7 @@
     <div class="entry">
         <div class="captioned_image">
             <img src="images/MillbotAndRicco.JPG" alt="Millbot" />
-            <p>Millbot</p>
+            <p><a href="http://www.thebluealliance.com/team/2471/2009">Millbot</a></p>
         </div>
         <div class="indented">
             <ul>
@@ -203,7 +203,7 @@
     <div class="entry">
         <div class="captioned_image">
             <img src="images/PVC-Board Monster.jpg" alt="PVC Board Monster" />
-            <p>PVC-Board Monster</p>
+            <p><a href="http://www.thebluealliance.com/team/2471/2008">PVC-Board Monster</a></p>
         </div>
         <div class="indented">
             <ul>
