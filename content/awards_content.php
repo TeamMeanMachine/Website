@@ -32,7 +32,7 @@
         <div class="indented">
             <ul>
 				<b><u>World Championships:</u></b>
-				<li>Participant in Galileo Divison</li>
+				<li>Galileo Divison</li>
 				<li>FIRST Dean's List Winner - Bryce Croucher</li>
 				<b><u>PNW District Championship:</u></b>
 				<li>Quarter Finalist with (955 & 948)</li>
