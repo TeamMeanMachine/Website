@@ -62,7 +62,7 @@
             <a target="_blank" href="http://www.linear.com"><img src="images/sponsor_logos/linear.jpg"></a>
         </div>
         <div class="Image_Wrapper" data-caption="Hewlett-Packard">
-            <a target="_blank" href="http://www.hp.com/"><img src="images/sponsor_logos/HP.jpg"></a>
+            <a target="_blank" href="http://www.hp.com/country/us/en/uc/welcome.html"><img src="images/sponsor_logos/HP.jpg"></a>
         </div>
         <div class="Image_Wrapper" data-caption="iPly Designs">
             <a><img src="images/sponsor_logos/iply.jpg"></a>
@@ -97,7 +97,7 @@
 			<tr>
 				<td class="alt"><a target="_blank" href="http://www.tnb.com/">Thomas and Betts - A member of the ABB group</a></td> <!--Titanium 5,000-->
 				<td class="alt"><a target="_blank" href="http://www.dwfritz.com/">DW Frtiz</a></td> <!--Aluminum 2,500-->
-				<td class="alt"><a target="_blank" href="http://www.hp.com/">Hewlett-Packard</a></td> <!--Wood 1,000-->
+				<td class="alt"><a target="_blank" href="http://www.hp.com/country/us/en/uc/welcome.html">Hewlett-Packard</a></td> <!--Wood 1,000-->
 				<td class="alt"><a target="_blank" href="http://www.columbialitho.com">Columbia Litho</a></td> <!--Plastic 500-->
 				<td class="alt last">Excel Designs</td> <!--Zip Tie 100-->
 			</tr>
@@ -118,14 +118,14 @@
 			<tr>
 				<td></td> <!--Titanium 5,000-->
 				<td><a target="_blank" href="http://www.linear.com">Linear Technology</a></td> <!--Aluminum 2,500-->
-				<td><a target="_blank" href="http://www.riverviewbank.com/">Riverview Bank</a></td> <!--Wood 1,000-->
+				<td><a target="_blank" href="https://www.riverviewbank.com/">Riverview Bank</a></td> <!--Wood 1,000-->
 				<td><a target="_blank" href="http://retailimaging.com/">Retail Imaging Managment Group</a></td> <!--Plastic 500-->
 				<td class="last"></td> <!--Zip Tie 100-->
 			<tr>
 				<td class="alt"></td> <!--Titanium 5,000-->
 				<td class="alt"><a target="_blank" href="http://www.k12.wa.us/">OSPI</a></td> <!--Aluminum 2,500-->
 				<td class="alt"><a>TCMS</a></td> <!--Wood 1,000-->
-				<td class="alt"><a target="_blank" href="http://seasonsfinancialonline.com/">Seasons Financial</a></td> <!--Plastic 500-->
+				<td class="alt"><a target="_blank" href="http://www.seasonsfinancialonline.com/">Seasons Financial</a></td> <!--Plastic 500-->
 				<td class="alt last"></td> <!--Zip Tie 100-->
 			</tr>
 		</table>
