@@ -1,15 +1,15 @@
 <div id="header">
     <table id="logo">
         <tr>
-            <td id="headermiddle">
+            <td id="headerleft">
             </td>
             <td id="headermiddle">
                 <img src="images/MeanMachinelogo90px.png" alt="Mean Machine Logo" />
-                <h1><a href="index.php">Team Mean Machine 2471</a></h1>
+                <h1 align="center"><a href="index.php">Team Mean Machine 2471</a></h1>
                 <br>
-                <p><b>FRC Robotics from Camas, Washougal, and Hockinson High Schools in Washington State</b></p>
+                <h3 align="center">FRC Robotics from Camas, Washougal, and Hockinson High Schools in Washington State</h3>
             </td>
-            <td id="headermiddle">
+            <td id="headerright">
             </td>
         </tr>
     </table>
