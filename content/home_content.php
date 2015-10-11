@@ -6,10 +6,6 @@
 <h1>Upcoming Events:</h1>
 <ul>
   <br>
-  <li>FRC Business Round Table - October 3rd, 2015</li>
-  <br>
-  <li>Girl's Generation - October 10th, 2015</li>
-  <br>
   <li>FIRST Fair - October 24th, 2015</li>
   <br>
   <li>Skyridge FLL Tournament - December 5th, 2015</li>
