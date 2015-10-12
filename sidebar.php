@@ -84,7 +84,7 @@
 					<br />
 					<a href="http://www.firstwa.org/"><img alt="FirstWA Logo" src="images/FIRSTWALogo.png" class="firstlogo"></a>
 					<br />
-					<a href="http://www.oregonfirst.org/"><img alt="Oregon First Logo" src="images/OregonFirstLogo.png" class="firstlogo"></a>
+					<a href="http://oregonfirst.org/"><img alt="Oregon First Logo" src="images/OregonFirstLogo.png" class="firstlogo"></a>
 				</li>
 			</ul>
 		</div>
