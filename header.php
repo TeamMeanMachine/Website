@@ -5,9 +5,9 @@
             </td>
             <td id="headermiddle">
                 <img src="images/MeanMachinelogo90px.png" alt="Mean Machine Logo" />
-                <h1 align="center"><a href="index.php">Team Mean Machine 2471</a></h1>
+                <h1><a href="index.php">Team Mean Machine 2471</a></h1>
                 <br>
-                <h3 align="center">FRC Robotics from Camas, Washougal, and Hockinson High Schools in Washington State</h3>
+                <p><b>FRC Robotics from Camas, Washougal, and Hockinson High Schools in Washington State</b></p>
             </td>
             <td id="headerright">
             </td>
