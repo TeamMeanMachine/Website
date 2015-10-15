@@ -14,6 +14,7 @@
 				<div class="entry">
 					<table>
 						<tr>
+							<!-- The Google Docs link seems out of date or not useful. -->
 							<td class="linkcell"><a href="http://docs.teammeanmachine.org">Google Docs</a> - This is where our team stores all our documents and does a lot of our collaboration. You have to sign in to access them.</td>
 							<td class="linkcell"><a href="http://www.team2471.org/content/Team Handbook 2013-14.pdf">Team Handbook (2013-14)<a/><br><a href="http://www.team2471.org/content/Team Mentor Handbook Aug 4 2012.docx">Mentor Handbook (2012-13)<a/></td>
 						</tr>
