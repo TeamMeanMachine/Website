@@ -6,10 +6,6 @@
 <h1>Upcoming Events:</h1>
 <ul>
   <br>
-  <li>FLL Scrimmage - November 7th, 2015</li>
-  <br>
-  <li>Mentors Roundtable - November 7th, 2015</li>
-  <br>
   <li>Skyridge FLL Tournament - December 5th, 2015</li>
   <br>
   <li>Boeing Tour - December 5th, 2015</li>
