@@ -33,11 +33,3 @@
 				
 							
 			</div>
-			<div class="post">
-				<h1 class="title"><a href="#">Contact Info</a></h1>
-				<div class="entry">
-					<table>
-					<p>Mentor: Bruce<br/> CHFIRST@gmail.com<br/>brucewhitefield@comcast.net<br/><br/></p>
-					</table>
-				</div>
-			</div>
