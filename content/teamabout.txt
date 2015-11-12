@@ -38,7 +38,7 @@ sponsors and conducts team fundraisers to earn the finances required to support 
 operation.
 
 <br><br>
-<img src="images/Dr_claw.jpg" alt="Dr.Claw" height="500" width="850">
+<img src="images/Dr_claw.jpg" alt="Dr.Claw" height="400" width="680">
 
 <br><br>
 
