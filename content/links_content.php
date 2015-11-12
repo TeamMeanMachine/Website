@@ -20,11 +20,11 @@
 						</tr>
 						<tr>
 							<td class="linkcell"><a href="https://www.facebook.com/pages/FIRST-Team-Mean-Machine-2471/240005312727396?fref=ts">Facebook</a></td>
-							<td class="linkcell"><a href="http://twitter.com/#!/MeanMachine2471">Twitter<a/></td>						
+							<td class="linkcell"><a href="http://twitter.com/#!/MeanMachine2471">Twitter<a/></td>
 						</tr>
 						<tr>
 							<td class="linkcell"><a href="http://www.youtube.com/user/FRCTeam2471/">Youtube<a/></td>
-							<td class="linkcell"><a href="http://www.flickr.com/photos/77989691@N05/">flickr<a/></td>							
+							<td class="linkcell"><a href="http://www.flickr.com/photos/77989691@N05/">flickr<a/></td>
 						</tr>
 						<tr>
 							<td class="linkcell"><a href="https://plus.google.com/u/0/b/100455123769305616793/">Google+<a/></td>
