@@ -119,22 +119,20 @@
 				<td></td> <!--Titanium 5,000-->
 				<td class="alt"><a target="_blank" href="http://www.linear.com">Linear Technology</a></td> <!--Aluminum 2,500-->
 				<td class="alt"><a target="_blank" href="http://www.local1159.com/">Professional Firefighters Local 1159</a></td> <!--Wood 1,000-->
-				<td class="alt"><a target="_blank" href="http://retailimaging.com/">Retail Imaging Managment Group</a></td> <!--Plastic 500-->
+				<td class="alt"><a target="_blank" href="http://www.protechcomposites.com/">Protech Composites</a></td> <!--Plastic 500-->
 				<td class="alt"></td> <!--Zip Tie 100-->
-				<td class="alt"><a target="_blank" href="https://www.riverviewbank.com/">Riverview Bank</a></td> <!--Wood 1,000-->
-
 			<tr>
 				<td class="alt"></td> <!--Titanium 5,000-->
 				<td class="alt"><a target="_blank" href="http://www.k12.wa.us/">OSPI</a></td> <!--Aluminum 2,500-->
 				<td class="alt"><a target="_blank" href="https://www.riverviewbank.com/">Riverview Bank</a></td> <!--Wood 1,000-->
-				<td class="alt"><a target="_blank" href="http://www.seasonsfinancialonline.com/">Seasons Financial</a></td> <!--Plastic 500-->
+				<td class="alt"><a target="_blank" href="http://retailimaging.com/">Retail Imaging Managment Group</a></td> <!--Plastic 500-->
 				<td class="alt"></td> <!--Zip Tie 100-->
 			</tr>
 			<tr>
 				<td class="alt last"></td> <!--Titanium 5,000-->
 				<td class="alt last"></td> <!--Aluminum 2,500-->
 				<td class="alt last"><a>TCMS</a></td> <!--Wood 1,000-->
-				<td class="alt last"></td> <!--Plastic 500-->
+				<td class="alt last"><a target="_blank" href="http://www.seasonsfinancialonline.com/">Seasons Financial</a></td> <!--Plastic 500-->
 				<td class="alt last"></td> <!--Zip Tie 100-->
 			</tr>
 		</table>
