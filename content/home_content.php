@@ -19,3 +19,5 @@
   <br>
   <li>PNW Oregon City District Event - March 31st-April 1st, 2016</li>
 </ul>
+<br>
+<a href="http://team2471.org/hours/">Build Season Hours</a>
