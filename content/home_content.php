@@ -9,7 +9,7 @@
   <br>
   <li>Chairman's & Woodie Flowers submissions due - February 4th, 2016</li>
   <br>
-  <li>Bag Day - February 18th, 2016</li>
+  <li>Bag Day - February 23rd, 2016</li>
   <br>
   <li>PNW Wilsonville District Event Load In - March 10th, 2016</li>
   <br>
@@ -20,4 +20,4 @@
   <li>PNW Oregon City District Event - March 31st-April 1st, 2016</li>
 </ul>
 <br>
-<p><a href="http://team2471.org/hours/">Build Season Hours</a></p>
+<p><u><a href="http://team2471.org/hours/">Build Season Hours</a></u></p>
