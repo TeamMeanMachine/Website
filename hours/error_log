@@ -1,0 +1,88 @@
+[15-Jan-2015 18:50:49 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home2/budzilla/public_html/team2471.org/hours/index.php on line 147
+[15-Jan-2015 19:17:49 America/Chicago] PHP Warning:  date() expects parameter 1 to be string, object given in /home2/budzilla/public_html/team2471.org/hours/index.php on line 128
+[15-Jan-2015 19:17:49 America/Chicago] PHP Warning:  date() expects parameter 1 to be string, object given in /home2/budzilla/public_html/team2471.org/hours/index.php on line 128
+[15-Jan-2015 19:17:49 America/Chicago] PHP Warning:  date() expects parameter 1 to be string, object given in /home2/budzilla/public_html/team2471.org/hours/index.php on line 128
+[15-Jan-2015 19:17:49 America/Chicago] PHP Warning:  date() expects parameter 1 to be string, object given in /home2/budzilla/public_html/team2471.org/hours/index.php on line 128
+[15-Jan-2015 19:17:49 America/Chicago] PHP Warning:  date() expects parameter 1 to be string, object given in /home2/budzilla/public_html/team2471.org/hours/index.php on line 128
+[15-Jan-2015 19:17:49 America/Chicago] PHP Warning:  date() expects parameter 1 to be string, object given in /home2/budzilla/public_html/team2471.org/hours/index.php on line 128
+[15-Jan-2015 19:17:49 America/Chicago] PHP Warning:  date() expects parameter 1 to be string, object given in /home2/budzilla/public_html/team2471.org/hours/index.php on line 128
+[15-Jan-2015 19:18:43 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, object given in /home2/budzilla/public_html/team2471.org/hours/index.php on line 128
+[15-Jan-2015 19:18:43 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, object given in /home2/budzilla/public_html/team2471.org/hours/index.php on line 128
+[15-Jan-2015 19:18:43 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, object given in /home2/budzilla/public_html/team2471.org/hours/index.php on line 128
+[15-Jan-2015 19:18:43 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, object given in /home2/budzilla/public_html/team2471.org/hours/index.php on line 128
+[15-Jan-2015 19:18:43 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, object given in /home2/budzilla/public_html/team2471.org/hours/index.php on line 128
+[15-Jan-2015 19:18:43 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, object given in /home2/budzilla/public_html/team2471.org/hours/index.php on line 128
+[15-Jan-2015 19:18:43 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, object given in /home2/budzilla/public_html/team2471.org/hours/index.php on line 128
+[15-Jan-2015 21:10:50 America/Chicago] PHP Fatal error:  'break' operator with non-constant operand is no longer supported in /home2/budzilla/public_html/team2471.org/hours/index.php on line 136
+[15-Jan-2015 21:29:41 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:29:41 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:29:41 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 73
+[15-Jan-2015 21:29:41 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 86
+[15-Jan-2015 21:29:52 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:29:52 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:29:52 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 73
+[15-Jan-2015 21:29:52 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 86
+[15-Jan-2015 21:30:30 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:30 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:30 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 68
+[15-Jan-2015 21:30:30 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 81
+[15-Jan-2015 21:30:33 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:33 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:33 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 68
+[15-Jan-2015 21:30:33 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 81
+[15-Jan-2015 21:30:36 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:36 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:36 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 68
+[15-Jan-2015 21:30:36 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 81
+[15-Jan-2015 21:30:37 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:37 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:37 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 68
+[15-Jan-2015 21:30:37 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 81
+[15-Jan-2015 21:30:38 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:38 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:38 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 68
+[15-Jan-2015 21:30:38 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 81
+[15-Jan-2015 21:30:38 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:38 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:38 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 68
+[15-Jan-2015 21:30:38 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 81
+[15-Jan-2015 21:30:39 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:39 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:39 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 68
+[15-Jan-2015 21:30:39 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 81
+[15-Jan-2015 21:30:40 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:40 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:40 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 68
+[15-Jan-2015 21:30:40 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 81
+[15-Jan-2015 21:30:40 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:40 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:40 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 68
+[15-Jan-2015 21:30:40 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 81
+[15-Jan-2015 21:30:41 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:41 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:41 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 68
+[15-Jan-2015 21:30:41 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 81
+[15-Jan-2015 21:30:42 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:42 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:42 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 68
+[15-Jan-2015 21:30:42 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 81
+[15-Jan-2015 21:30:42 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:42 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:42 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 68
+[15-Jan-2015 21:30:42 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 81
+[15-Jan-2015 21:30:44 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:44 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:44 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 68
+[15-Jan-2015 21:30:44 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 81
+[15-Jan-2015 21:30:49 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:49 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:49 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 68
+[15-Jan-2015 21:30:49 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 81
+[15-Jan-2015 21:30:52 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:52 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:52 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 68
+[15-Jan-2015 21:30:52 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 81
+[15-Jan-2015 21:30:56 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:56 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 48
+[15-Jan-2015 21:30:56 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 68
+[15-Jan-2015 21:30:56 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home2/budzilla/public_html/team2471.org/hours/loadhours.php on line 81
