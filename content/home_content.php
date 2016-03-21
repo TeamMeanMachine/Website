@@ -7,19 +7,21 @@
 <h1>Upcoming Events:</h1>
 <ul>
   <br>
-  <li>PNW Wilsonville District Event Load In - March 10th, 2016</li>
-  <br>
-  <li>PNW Wilsonville District Event - March 11-12th, 2016</li>
-  <br>
   <li>Easter Egg Hunt Demo - March 27th, 2016</li>
   <br>
-  <li>PNW Oregon City District Event Load In - March 30th, 2016</li>
+  <li>PNW Oregon City District Event Load In - March 31th, 2016</li>
   <br>
-  <li>PNW Oregon City District Event - March 31st-April 1st, 2016</li>
+  <li>PNW Oregon City District Event - April 1st-April 2st, 2016</li>
   <br>
   <li>PNW District Championship Load In - April 6th, 2016</li>
   <br>
   <li>PNW District Championship - April 7th-April 9th, 2016</li>
+   <br>
+  <li>FRC World Championship Load In - April 27th, 2016</li>
+  <br>
+  <li>FRC World Championship - April 28th-April 30th, 2016</li>
+  <br>
+  <li>FRC World Championship Load Out - May 1st, 2016</li>
   
 </ul>
 <br>
