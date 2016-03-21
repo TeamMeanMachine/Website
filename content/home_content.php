@@ -11,7 +11,7 @@
   <br>
   <li>PNW Oregon City District Event Load In - March 31st, 2016</li>
   <br>
-  <li>PNW Oregon City District Event - April 1st-April 2st, 2016</li>
+  <li>PNW Oregon City District Event - April 1st-April 2nd, 2016</li>
   <br>
   <li>PNW District Championship Load In - April 6th, 2016</li>
   <br>
