@@ -9,7 +9,7 @@
   <br>
   <li>Easter Egg Hunt Demo - March 27th, 2016</li>
   <br>
-  <li>PNW Oregon City District Event Load In - March 31th, 2016</li>
+  <li>PNW Oregon City District Event Load In - March 31st, 2016</li>
   <br>
   <li>PNW Oregon City District Event - April 1st-April 2st, 2016</li>
   <br>
