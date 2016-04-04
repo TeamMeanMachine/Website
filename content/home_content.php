@@ -1,13 +1,13 @@
 
 <h1>Carbon Knight at PNW CAIS District Event:</h1>
 <div width="100%">
-   <iframe style="display: block; margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/watch?v=ri74l07qRAA&list=PLwES-Sbpsnxw5tt0cEcpBqGUQsdynl_ii&index=79" frameborder="0" allowfullscreen></iframe>
+   <iframe style="display: block; margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/embed/ri74l07qRAA" frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 <br>
 <h1>2016 Unveil Video:</h1>
 <div width="100%">
-   <iframe style="display: block; margin: 0 auto;" width="560" height="315" src="https://youtu.be/OIRAUX4TTXc" frameborder="0" allowfullscreen></iframe>
+   <iframe style="display: block; margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/embed/OIRAUX4TTXc" frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 <br>
@@ -16,7 +16,7 @@
   <li>PNW District Championship Load In - April 6th, 2016</li>
   <br>
   <li>PNW District Championship - April 7th-April 9th, 2016</li>
-   <br>
+  <br>
   <li>FRC World Championship Load In - April 27th, 2016</li>
   <br>
   <li>FRC World Championship - April 28th-April 30th, 2016</li>
