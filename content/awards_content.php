@@ -1,4 +1,23 @@
 <div class="post">
+    <h1 class="title"><a href="#">2016</a></h1>
+    <div class="entry">
+        <div class="captioned_image">
+            <img src="images/Carbon_Knight.jpg" alt="Carbon_Knight" />
+            <p><a href="http://www.thebluealliance.com/team/2471/2015">Tote-O Stackins</a></p>
+        </div>
+        <div class="indented">
+            <ul>
+		<b><u>PNW CAIS District Event:</u></b>
+		<li><font color="#DCCE0B">District Chairman's Award</font></li>
+		<li>Winner (with teams 1540 & 5468)</li>
+                <b><u>PNW Wilsonville District Event:</u></b>
+                <li>Finalist (with teams 955 & 3673)</li>
+		<li>Excellence in Engineering Award</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="post">
     <h1 class="title"><a href="#">2015</a></h1>
     <div class="entry">
         <div class="captioned_image">
@@ -35,13 +54,13 @@
 				<li>Galileo Divison</li>
 				<li>FIRST Dean's List Winner - Bryce Croucher</li>
 				<b><u>PNW District Championship:</u></b>
-				<li>Quarter Finalist with (955 & 948)</li>
+				<li>Quarter Finalist (with teams 955 & 948)</li>
 				<li>FIRST Dean's List Finalist - Bryce Croucher</li>
 				<b><u>PNW Wilsonville District Event:</u></b>
 				<li>Industrial Safety Award</li>
 				<li>Innovation in Control Award</li>
 				<b><u>PNW Oregon City District Event:</u></b>
-				<li>Winner with (4488 & 3674)</li>
+				<li>Winner (with teams 4488 & 3674)</li>
 				<li>Industrial Design Award</li>
             </ul>
         </div>
