@@ -8,7 +8,7 @@
         <div class="indented">
             <ul>
 		<b><u>PNW CAIS District Event:</u></b>
-		<li><font color="#DCCE0B">District Chairman's Award</font></li>
+		<li>District Chairman's Award</li>
 		<li>Winner (with teams 1540 & 5468)</li>
 		<li>FIRST Dean's List Semi-Finalist - Joseph Marugg</li>
                 <b><u>PNW Wilsonville District Event:</u></b>
