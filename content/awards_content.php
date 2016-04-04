@@ -3,13 +3,14 @@
     <div class="entry">
         <div class="captioned_image">
             <img src="images/Carbon_Knight.jpg" alt="Carbon_Knight" />
-            <p><a href="http://www.thebluealliance.com/team/2471/2015">Tote-O Stackins</a></p>
+            <p><a href="http://www.thebluealliance.com/team/2471/2016">Carbon Knight</a></p>
         </div>
         <div class="indented">
             <ul>
 		<b><u>PNW CAIS District Event:</u></b>
 		<li><font color="#DCCE0B">District Chairman's Award</font></li>
 		<li>Winner (with teams 1540 & 5468)</li>
+		<li>FIRST Dean's List Semi-Finalist - Joseph Marugg</li>
                 <b><u>PNW Wilsonville District Event:</u></b>
                 <li>Finalist (with teams 955 & 3673)</li>
 		<li>Excellence in Engineering Award</li>
