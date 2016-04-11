@@ -13,15 +13,13 @@
 <br>
 <h1>Upcoming Events:</h1>
 <ul>
-  <li>PNW District Championship Load In - April 6th, 2016</li>
-  <br>
-  <li>PNW District Championship - April 7th-April 9th, 2016</li>
-  <br>
   <li>FRC World Championship Load In - April 27th, 2016</li>
   <br>
   <li>FRC World Championship - April 28th-April 30th, 2016</li>
   <br>
   <li>FRC World Championship Load Out - May 1st, 2016</li>
+  <br>
+  <li>Hockinson Fun Days - June 4th, 2016</li>
 </ul>
 <br>
 <p><u><a href="http://team2471.org/hours/">Build Season Hours</a></u></p>

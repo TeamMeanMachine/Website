@@ -7,6 +7,9 @@
         </div>
         <div class="indented">
             <ul>
+		<b><u>PNW District Championship Event:</u></b>
+		<li>Quarter Finalist (with teams 1258 & 4131)</li>
+		<li>Innovation in Control Award</li>
 		<b><u>PNW CAIS District Event:</u></b>
 		<li>District Chairman's Award</li>
 		<li>Winner (with teams 1540 & 5468)</li>
