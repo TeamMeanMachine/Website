@@ -59,7 +59,6 @@
 				<li>FIRST Dean's List Winner - Bryce Croucher</li>
 				<b><u>PNW District Championship:</u></b>
 				<li>Quarter Finalist (with teams 955 & 948)</li>
-				<li>FIRST Dean's List Finalist - Bryce Croucher</li>
 				<b><u>PNW Wilsonville District Event:</u></b>
 				<li>Industrial Safety Award</li>
 				<li>Innovation in Control Award</li>
