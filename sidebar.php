@@ -1,7 +1,7 @@
 		<div id="sidebar2" class="sidebar">
 			<ul>
 				<li>
-					<a href="http://www.usfirst.org"><img src="images/FRCicon_RGB.gif" class="firstlogo" alt="FIRST Logo"></a>
+					<a href="http://www.firstinspires.org/"><img src="images/FRCicon_RGB.gif" class="firstlogo" alt="FIRST Logo"></a>
 				</li>
 				<li>
 					<h2>Twitter</h2>
