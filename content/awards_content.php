@@ -7,6 +7,9 @@
         </div>
         <div class="indented">
             <ul>
+		<b><u>World Championships:</u></b>
+		<li>Hopper Division Quarter Finalist (with teams 1425, 1538, and 2046)</li>
+		<li>Innovation in Control Award</li>
 		<b><u>PNW District Championship Event:</u></b>
 		<li>Quarter Finalist (with teams 1258 & 4131)</li>
 		<li>Innovation in Control Award</li>
