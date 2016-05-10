@@ -103,7 +103,7 @@
 			</tr>
 			<tr><!--3-->
 				<td><a target="_blank" href="http://www.wafertech.com/en/index.html">Wafertech</a></td> <!--Titanium 5,000-->
-				<td><a target="_blank" href="http://www.hocksd.org/">Hockinson School District</a></td> <!--Aluminum 2,500--> -- START HERE
+				<td><a target="_blank" href="http://www.hocksd.org/">Hockinson School District</a></td> <!--Aluminum 2,500-->
 				<td><a target="_blank" href="http://www.speea.org/">SPEEA</a></td> <!--Wood 1,000-->
 				<td><a target="_blank" href="http://www.local1159.com/">Professional Firefighters Local 1159</a></td> <!--Plastic 500-->
 				<td class="last"><a target="_blank" href="http://www.interstatebatteries.com/">Interstate Batteries</a></td> <!--Zip Tie 100-->
