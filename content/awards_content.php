@@ -8,17 +8,17 @@
         <div class="indented">
             <ul>
 		<b><u>World Championships:</u></b>
-		<li>Hopper Division Quarter Finalist (with teams 1425, 1538, and 2046)</li>
+		<li>Hopper Division Quarter Finalist (with 1425, 1538, and 2046)</li>
 		<li>Innovation in Control Award</li>
 		<b><u>PNW District Championship Event:</u></b>
-		<li>Quarter Finalist (with teams 1258 & 4131)</li>
+		<li>Quarter Finalist (with 1258 & 4131)</li>
 		<li>Innovation in Control Award</li>
 		<b><u>PNW CAIS District Event:</u></b>
 		<li>District Chairman's Award</li>
-		<li>Winner (with teams 1540 & 5468)</li>
+		<li>Winner (with 1540 & 5468)</li>
 		<li>FIRST Dean's List Semi-Finalist - Joseph Marugg</li>
                 <b><u>PNW Wilsonville District Event:</u></b>
-                <li>Finalist (with teams 955 & 3673)</li>
+                <li>Finalist (with 955 & 3673)</li>
 		<li>Excellence in Engineering Award</li>
             </ul>
         </div>
@@ -34,14 +34,14 @@
         <div class="indented">
             <ul>
 		<b><u>World Championships:</u></b>
-		<li>Carson Division Quarter Finalist (with teams 236, 4818, and 375)</li>
+		<li>Carson Division Quarter Finalist (with 236, 4818, and 375)</li>
 		<b><u>PNW District Championship:</u></b>
-		<li>Finalist (with teams 4488, 1510, and 4513)</li>
+		<li>Finalist (with 4488, 1510, and 4513)</li>
 		<b><u>PNW Wilsonville District Event:</u></b>
-		<li>Finalist (with teams 1425 & 957)</li>
+		<li>Finalist (with 1425 & 957)</li>
 		<li>Innovation in Control Award</li>
                 <b><u>PNW Oregon City District Event:</u></b>
-                <li>Semi-finalist (with teams 3024 & 4043)</li>
+                <li>Semi-finalist (with 3024 & 4043)</li>
 		<li>Industrial Design Award</li>
 		<li>Industrial Safety Award</li>
             </ul>
@@ -61,12 +61,12 @@
 				<li>Galileo Divison</li>
 				<li>FIRST Dean's List Winner - Bryce Croucher</li>
 				<b><u>PNW District Championship:</u></b>
-				<li>Quarter Finalist (with teams 955 & 948)</li>
+				<li>Quarter Finalist (with 955 & 948)</li>
 				<b><u>PNW Wilsonville District Event:</u></b>
 				<li>Industrial Safety Award</li>
 				<li>Innovation in Control Award</li>
 				<b><u>PNW Oregon City District Event:</u></b>
-				<li>Winner (with teams 4488 & 3674)</li>
+				<li>Winner (with 4488 & 3674)</li>
 				<li>Industrial Design Award</li>
             </ul>
         </div>
