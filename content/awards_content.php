@@ -28,7 +28,7 @@
     <h1 class="title"><a href="#">2015</a></h1>
     <div class="entry">
         <div class="captioned_image">
-            <img src="images/Tote-O.jpg" alt="Tote-O" />
+            <a href="http://www.thebluealliance.com/team/2471/2015"><img src="images/Tote-O.jpg" alt="Tote-O" /></a>
             <p><a href="http://www.thebluealliance.com/team/2471/2015">Tote-O Stackins</a></p>
         </div>
         <div class="indented">
@@ -52,7 +52,7 @@
     <h1 class="title"><a href="#">2014</a></h1>
     <div class="entry">
         <div class="captioned_image">
-            <img src="images/Dr_claw.jpg" alt="Dr. Claw" />
+            <a href="http://www.thebluealliance.com/team/2471/2014"><img src="images/Dr_claw.jpg" alt="Dr. Claw" /></a>
             <p><a href="http://www.thebluealliance.com/team/2471/2014">Dr.Claw</a></p>
         </div>
         <div class="indented">
@@ -76,7 +76,7 @@
     <h1 class="title"><a href="#">2013</a></h1>
     <div class="entry">
         <div class="captioned_image">
-            <img src="images/2013Robot.JPG" alt="OddJob" />
+            <a href="http://www.thebluealliance.com/team/2471/2013"><img src="images/2013Robot.JPG" alt="OddJob" /></a>
             <p><a href="http://www.thebluealliance.com/team/2471/2013">OddJob</a></p>
         </div>
         <div class="indented">
@@ -112,7 +112,7 @@
 <div class="post">
     <div class="entry">
         <div class="captioned_image">
-            <img src="images/swoopes2012.bmp" alt="Swoopes" />
+            <a href="http://www.thebluealliance.com/team/2471/2012"><img src="images/swoopes2012.bmp" alt="Swoopes" /></a>
             <p><a href="http://www.thebluealliance.com/team/2471/2012">Swoopes</a></p>
         </div>
         <div class="indented">
@@ -147,7 +147,7 @@
 <div class="post">
     <div class="entry">
         <div class="captioned_image">
-            <img src="images/Wallace.JPG" alt="Wallace" />
+            <a href="http://www.thebluealliance.com/team/2471/2011"><img src="images/Wallace.JPG" alt="Wallace" /></a>
             <p><a href="http://www.thebluealliance.com/team/2471/2011">Wallace</a></p>
         </div>
         <div class="indented">
@@ -182,7 +182,7 @@
 <div class="post">
     <div class="entry">
         <div class="captioned_image">
-            <img src="images/Ophy.JPG" />
+            <a href="http://www.thebluealliance.com/team/2471/2010"><img src="images/Ophy.JPG" /></a>
             <p><a href="http://www.thebluealliance.com/team/2471/2010">Ophy</a></p>
         </div>
         <div class="indented">
@@ -205,7 +205,7 @@
     <h1 class="title"><a href="#">2009</a></h1>
     <div class="entry">
         <div class="captioned_image">
-            <img src="images/MillbotAndRicco.JPG" alt="Millbot" />
+           <a href="http://www.thebluealliance.com/team/2471/2009"><img src="images/MillbotAndRicco.JPG" alt="Millbot" /></a>
             <p><a href="http://www.thebluealliance.com/team/2471/2009">Millbot</a></p>
         </div>
         <div class="indented">
@@ -227,7 +227,7 @@
     <h1 class="title"><a href="#">2008</a></h1>
     <div class="entry">
         <div class="captioned_image">
-            <img src="images/PVC-Board Monster.jpg" alt="PVC Board Monster" />
+            <a href="http://www.thebluealliance.com/team/2471/2008">PVC-Board Monster</a><img src="images/PVC-Board Monster.jpg" alt="PVC Board Monster" /></a>
             <p><a href="http://www.thebluealliance.com/team/2471/2008">PVC-Board Monster</a></p>
         </div>
         <div class="indented">
