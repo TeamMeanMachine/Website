@@ -124,7 +124,7 @@
 			</tr>
 			<tr><!--6-->
 				<td></td> <!--Titanium 5,000-->
-				<td>Lange Family</td> <!--Aluminum 2,500-->
+				<td><a>Lange Family</a></td> <!--Aluminum 2,500-->
 				<td><a target="_blank" href="http://www.deltamotion.com/index.php">Delta Computer Systems</a></td> <!--Wood 1,000-->
 				<td><a>Barsotti Family</a></td> <!--Plastic 500-->
 				<td class="last"></td> <!--Zip Tie 100-->
