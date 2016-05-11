@@ -2,7 +2,7 @@
     <h1 class="title"><a href="#">2016</a></h1>
     <div class="entry">
         <div class="captioned_image">
-            <img src="images/Carbon_Knight.jpg" alt="Carbon_Knight" />
+            <a href="http://www.thebluealliance.com/team/2471/2016"><img src="images/Carbon_Knight.jpg" alt="Carbon_Knight" /></a>
             <p><a href="http://www.thebluealliance.com/team/2471/2016">Carbon Knight</a></p>
         </div>
         <div class="indented">
