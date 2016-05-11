@@ -1,7 +1,7 @@
 
-<h1>Sally Port Autonomous by 2471:</h1>
+<h1>2016 Chairman's Video:</h1>
 <div width="100%">
-   <iframe style="display: block; margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/embed/sgyOs6maUZo" frameborder="0" allowfullscreen></iframe>
+   <iframe style="display: block; margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/embed/c6ktcAZ4TWU" frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 <br>
@@ -13,13 +13,14 @@
 <br>
 <h1>Upcoming Events:</h1>
 <ul>
-  <li>FRC World Championship Load In - April 27th, 2016</li>
+  <li>USD FIRST WA Supporters Workshop - May 19th, 2016</li>
   <br>
-  <li>FRC World Championship - April 28th-April 30th, 2016</li>
+  <li>Hockinson Fun Days - June 4, 2016</li>
   <br>
-  <li>FRC World Championship Load Out - May 1st, 2016</li>
+  <li>HP Innovation Fair - June 9, 2016</li>
   <br>
-  <li>Hockinson Fun Days - June 4th, 2016</li>
+  <li>CAMTown Youth Festival - June 11, 2016</li>
+  <br>
+  <li>Recycle Arts Festival - June 25-26, 2016</li>
 </ul>
 <br>
-<p><u><a href="http://team2471.org/hours/">Build Season Hours</a></u></p>
