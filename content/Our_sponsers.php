@@ -133,7 +133,7 @@
 				<td></td> <!--Titanium 5,000-->
 				<td></td> <!--Aluminum 2,500-->
 				<td></td> <!--Wood 1,000-->
-				<td><a target="http://www.industrialmachineservices.com/">Industrial Machine Services</a></td> <!--Plastic 500-->
+				<td><a target="_blank" href="http://www.industrialmachineservices.com/">Industrial Machine Services</a></td> <!--Plastic 500-->
 				<td class="last"></td> <!--Zip Tie 100-->
 			</tr>
 			<tr><!--8-->
@@ -154,7 +154,7 @@
 				<td></td> <!--Titanium 5,000-->
 				<td></td> <!--Aluminum 2,500-->
 				<td></td> <!--Wood 1,000-->
-				<td><a target="http://www.gencomnw.com/">Gencom Northwest</a></td> <!--Plastic 500-->
+				<td><a target="_blank" href="http://www.gencomnw.com/">Gencom Northwest</a></td> <!--Plastic 500-->
 				<td class="last"></td> <!--Zip Tie 100-->
 			</tr>
 			</tr>
