@@ -95,35 +95,35 @@
 				<td class="last"><a target="_blank" href="http://dwfritz.com/">DW Frtiz</a></td> <!--Zip Tie 100-->
 			</tr>
 			<tr><!--2-->
-				<td><a target="_blank" href="http://usdigital.com/">US Digital</a></td> <!--Titanium 5,000-->
+				<td><a target="_blank" href="http://www.cefcamas.org/">Camas Educational Foundation</a></td> <!--Titanium 5,000-->
 				<td><a>iPly Designs</a></td> <!--Aluminum 2,500-->
 				<td><a target="_blank" href="http://www.hp.com/country/us/en/uc/welcome.html">Hewlett-Packard</a></td> <!--Wood 1,000-->
 				<td><a target="_blank" href="http://www.wacom.com/">Wacom</a></td> <!--Plastic 500-->
 				<td class="last"><a target="_blank" href="http://www.columbiaokura.com/">Columbia Okura</a></td> <!--Zip Tie 100-->
 			</tr>
 			<tr><!--3-->
-				<td><a target="_blank" href="http://www.wafertech.com/en/index.html">Wafertech</a></td> <!--Titanium 5,000-->
+				<td><a target="_blank" href="http://usdigital.com/">US Digital</a></td> <!--Titanium 5,000-->
 				<td><a target="_blank" href="http://www.hocksd.org/">Hockinson School District</a></td> <!--Aluminum 2,500-->
 				<td><a target="_blank" href="http://www.speea.org/">SPEEA</a></td> <!--Wood 1,000-->
 				<td><a target="_blank" href="http://www.local1159.com/">Professional Firefighters Local 1159</a></td> <!--Plastic 500-->
 				<td class="last"><a target="_blank" href="http://www.interstatebatteries.com/">Interstate Batteries</a></td> <!--Zip Tie 100-->
 			</tr>
 			<tr><!--4-->
-				<td><a target="_blank" href="http://www.k12.wa.us/">OSPI</a></td> <!--Titanium 5,000-->
+				<td><a target="_blank" href="http://www.wafertech.com/en/index.html">Wafertech</a></td> <!--Titanium 5,000-->
 				<td><a target="_blank" href="http://www.washougal.k12.wa.us/">Washougal School District</a></td> <!--Aluminum 2,500-->
 				<td><a target="_blank" href="https://www.gp.com/">Georgia Pacific</a></td> <!--Wood 1,000-->
 				<td><a target="_blank" href="http://www.retailimaging.com/">Retail Image Management Group</a></td> <!--Plastic 500-->
 				<td class="last"><a>International Association of Machinists and Aerospace Workers</a></td> <!--Zip Tie 100-->
 			</tr>
 			<tr><!--5-->
-				<td><a target="_blank" href="http://www.tnb.com/">Thomas and Betts - A member of the ABB group</a></td> <!--Titanium 5,000-->
+				<td><a target="_blank" href="http://www.k12.wa.us/">OSPI</a></td> <!--Titanium 5,000-->
 				<td><a target="_blank" href="http://www.linear.com">Linear Technology</a></td> <!--Aluminum 2,500-->
 				<td><a target="_blank" href="https://www.riverviewbank.com/">Riverview Bank</a></td> <!--Wood 1,000-->
 				<td><a target="_blank" href="http://www.seasonsfinancialonline.com/">Seasons Financial</a></td> <!--Plastic 500-->
 				<td class="last"></td> <!--Zip Tie 100-->
 			</tr>
 			<tr><!--6-->
-				<td></td> <!--Titanium 5,000-->
+				<td><a target="_blank" href="http://www.tnb.com/">Thomas and Betts - A member of the ABB group</a></td> <!--Titanium 5,000-->
 				<td><a>Lange Family</a></td> <!--Aluminum 2,500-->
 				<td><a target="_blank" href="http://www.deltamotion.com/index.php">Delta Computer Systems</a></td> <!--Wood 1,000-->
 				<td><a>Barsotti Family</a></td> <!--Plastic 500-->
