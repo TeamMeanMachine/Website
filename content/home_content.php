@@ -13,8 +13,6 @@
 <br>
 <h1>Upcoming Events:</h1>
 <ul>
-  <li>USD FIRST WA Supporters Workshop - May 19th, 2016</li>
-  <br>
   <li>Hockinson Fun Days - June 4, 2016</li>
   <br>
   <li>HP Innovation Fair - June 9, 2016</li>
