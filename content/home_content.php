@@ -13,12 +13,6 @@
 <br>
 <h1>Upcoming Events:</h1>
 <ul>
-  <li>Hockinson Fun Days - June 4, 2016</li>
-  <br>
-  <li>HP Innovation Fair - June 9, 2016</li>
-  <br>
-  <li>CAMTown Youth Festival - June 11, 2016</li>
-  <br>
-  <li>Recycle Arts Festival - June 25-26, 2016</li>
+  <li>Camas Days - July 22-23, 2016</li>
 </ul>
 <br>
