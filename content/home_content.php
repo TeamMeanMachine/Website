@@ -13,6 +13,6 @@
 <br>
 <h1>Upcoming Events:</h1>
 <ul>
-  <li>Camas Days - July 22-23, 2016</li>
+  <li>Oregon State Fair - August 26-28, 2016</li>
 </ul>
 <br>
