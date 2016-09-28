@@ -13,8 +13,6 @@
 <br>
 <h1>Upcoming Events:</h1>
 <ul>
-  <li>FRC Season Teaser Release - September 20, 2016</li>
-  <br>
   <li>Business Round Table - October 8, 2016</li>
   <br>
   <li>Girl's Genereation Competition - October 15, 2016</li>
